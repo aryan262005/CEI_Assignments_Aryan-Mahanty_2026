@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+llama-index
+llama-index-embeddings-cohere
+llama-index-llms-cohere
+llama-index-vector-stores-pinecone
+pinecone-client
+cohere
+python-dotenv
