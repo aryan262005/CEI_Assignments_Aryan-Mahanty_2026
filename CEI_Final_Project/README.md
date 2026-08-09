@@ -8,3 +8,4 @@
 
    PINECONE_API_KEY=your_key_here
 5. Run: `streamlit run app.py`
+6. Deployed model: https://ceiassignmentsaryan-mahanty2026-26neqqyzw4xtcer2fjluj9.streamlit.app/
